@@ -2,7 +2,6 @@
 #### I'm a student majoring in CS, with interest in AI.
 
 - Konkuk Univ. NLP Lab. Undergrad Intern
-- Tensorflow Developer Certificate: https://www.credential.net/0f7c62c5-75cd-4cab-be8e-aeed0ef72ab7#gs.otwzc3
 
 <!--
 **MattYoon/MattYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
