@@ -1,5 +1,5 @@
 ### Hi there 👋 
-#### I'm a student majoring in CS, with interest in AI.
+#### I'm a student majoring in CS, interested in AI.
 
 - Konkuk Univ. NLP Lab. Undergrad Intern
 
