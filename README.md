@@ -1,8 +1,6 @@
 ### Hi there 👋 
 #### I'm a student majoring in CS, interested in AI.
 
-- Konkuk Univ. NLP Lab. Undergrad Intern
-
 <!--
 **MattYoon/MattYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
