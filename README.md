@@ -1,5 +1,6 @@
 ### Hi there 👋 
 #### I'm a student majoring in CS, interested in AI.
+- Intern at KAIST [Language & Knowledge Lab.](https://lklab.kaist.ac.kr/)
 
 <!--
 **MattYoon/MattYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
