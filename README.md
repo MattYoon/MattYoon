@@ -1,6 +1,6 @@
 ### Hi there 👋 
 - Intern at KAIST AI [Language & Knowledge Lab.](https://lklab.kaist.ac.kr/)
-- I'm joining KAIST AI as a graduate student (MS & PhD. integrated) in August 2023!
+- I'm joining KAIST AI as a graduate student (MS & PhD integrated) in August 2023!
 
 <!--
 **MattYoon/MattYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
