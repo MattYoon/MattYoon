@@ -1,5 +1,4 @@
 ### Hi there 👋 
-- Intern at KAIST AI [Language & Knowledge Lab.](https://lklab.kaist.ac.kr/)
 - I'm joining KAIST AI as a graduate student (MS & PhD integrated) in August 2023!
 
 <!--
